@@ -1,0 +1,44 @@
+img{
+    height: 100px;
+    width: 300px;
+}
+.myDiv {
+    width: 30%;
+    float: left;
+  }
+.mydiv {
+    width: 70%;
+    float: left;
+    color: darkblue;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+.month{
+  display: grid;
+  grid-column-gap: 50px;
+  grid-template-columns: auto auto auto;
+  padding: 10px;
+  background-color: darkblue;
+  opacity: 0.6;
+}
+.first{
+  background-color: rgba(255, 255, 255, 0.8) black;
+  padding: 20px;
+  font-size: 30px;
+  text-align: auto;
+}
+.json{
+  color:cornflowerblue;
+}
+.dark-mode {
+  background-color: black;
+  color: white;
+}
+.button{
+  padding: 15px 32px;
+  border: none;
+  background-color: black;
+}
+body {
+  background-image: url("f7aee8753832af613b63e51d5f07011a.jpg");
+}
